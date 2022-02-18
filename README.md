@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+<a href="https://github.com/chashikajw/chashikajw">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chashikajw&show_icons=true&line_height=27&count_private=true&title_color=067AC9&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" alt="Chashika's GitHub Stats" />
+</a>
 
 <!--
 **chashikajw/chashikajw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
