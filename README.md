@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Chashika Weerathunga and currently working as an Associate Technical Lead at WSO2. I graduated from the University of Colombo School of Computing specializing Computer Science. 
+My name is Chashika Weerathunga. I am a Software Engineer currently working in Singapore. I graduated from the University of Colombo School of Computing, specializing in Computer Science. 
 
 <br/>
 
